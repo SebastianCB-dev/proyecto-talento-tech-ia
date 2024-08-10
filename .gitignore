@@ -1,0 +1,46 @@
+# Datasets dist
+**/dist/*.csv
+
+# Python
+*.pyc
+__pycache__/
+venv/
+*.pyo
+*.pyd
+*.pyi
+*.pyz
+*.pyw
+*.pyz/
+*.pyw/
+*.egg-info/
+build/
+*.egg
+*.whl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# Logs
+*.log
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.tmp
+
+# Environment
+.env
+.env.*
+
+
+.DS_Store
