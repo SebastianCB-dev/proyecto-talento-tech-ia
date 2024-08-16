@@ -1,6 +1,9 @@
 # Datasets dist
 **/dist/*.csv
 
+# Lenguajes
+es_core_news_lg**/
+
 # Python
 *.pyc
 __pycache__/
