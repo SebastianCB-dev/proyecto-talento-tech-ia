@@ -14,14 +14,15 @@ Este proyecto forma parte del bootcamp Talento Tech y tiene como objetivo la cre
 
 1. **Construcción del dataset**: Obtención de comentarios de diferentes redes sociales (Kaggle datasets).
 2. **Traducción de Comentarios**: Traducción de los comentarios a Español para unificar el idioma.
-3. **Preprocesamiento de Datos**: Limpieza y preparación de los datos para su uso en modelos de machine learning.
-4. **Desarrollo de Modelos**: Creación de varios modelos de machine learning, incluyendo pero no limitado a:
+3. **NLP (Procesamiento de Lenguaje Natural)**: Limpieza y preparación de los datos para su uso en modelos de machine learning..
+4. **Word Embeddings**: Creación de vectores de palabras para representar los comentarios.
+5. **Desarrollo de Modelos**: Creación de varios modelos de machine learning, incluyendo pero no limitado a:
    - Regresión Logística
    - Máquinas de Soporte Vectorial (SVM)
    - Redes Neuronales
    - Árboles de Decisión y Bosques Aleatorios
-5. **Evaluación de Modelos**: Uso de métricas de evaluación como precisión, recall, F1-score y AUC-ROC para comparar los modelos.
-6. **Análisis de Resultados**: Interpretación de los resultados y selección del modelo más eficaz.
+6. **Evaluación de Modelos**: Uso de métricas de evaluación como precisión, recall, F1-score y AUC-ROC para comparar los modelos.
+7. **Análisis de Resultados**: Interpretación de los resultados y selección del modelo más eficaz.
 
 ## Requisitos
 
